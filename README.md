@@ -1,0 +1,43 @@
+# de-ai-taste 中文去AI味审阅 Skill
+
+一个给 Claude Code / Codex 等 AI Agent 用的中文写作审阅 Skill：读完你的文章后，逐条检测 AI 生成痕迹并给出具体修改建议，由你决定采纳哪些，再帮你改。
+
+## 它检测什么
+
+信号库（[references/ai-taste-signals.md](references/ai-taste-signals.md)）来自跨 20 个中英文平台的社区研究，覆盖四类信号：
+
+- **句式模式**：「不是A而是B」对比句、三段论、chatbot 开场白和结尾套话
+- **表达模式**：机械味、破折号滥用、宏大隐喻、均匀段落、正确的废话
+- **词汇标记**：技术玄学词、企业黑话、四字成语堆砌
+- **AI身份泄露**：「作为一个大型语言模型」、谄媚式肯定
+
+## 设计原则
+
+- **宁可漏报，不要误报**——误报会摧毁你对工具的信任
+- **不虚构作者经历**——缺细节的地方向你要真实素材，不代写假故事
+- **保留作者语气**——目标是像你本人写的，不是像"标准自然中文"
+- 长文自动切换并行子代理模式：便宜模型分段扫描 + 强模型通读全文 + 最强写作模型终审汇总
+
+## 安装
+
+### Claude Code
+
+```bash
+git clone https://github.com/ruodou233/de-ai-taste.git ~/.claude/skills/de-ai-taste
+```
+
+### Codex / 其他 Agent
+
+克隆到对应的 skill 目录，或在 prompt 中引用 `SKILL.md` 全文即可。
+
+## 使用
+
+对你的 Agent 说「帮我去AI味」「检查一下这篇文章的AI感」，并给出文章即可。
+
+## 更新
+
+AI 的写作癖好随模型迭代变化（破折号是 ChatGPT 系的癖好，「量子纠缠」式玄学词是 DeepSeek 系的），信号库会随之定期更新。Watch/Star 本仓库获取更新。
+
+## License
+
+MIT

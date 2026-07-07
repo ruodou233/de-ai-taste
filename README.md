@@ -38,6 +38,24 @@ git clone https://github.com/ruodou233/de-ai-taste.git ~/.claude/skills/de-ai-ta
 
 AI 的写作癖好随模型迭代变化（破折号是 ChatGPT 系的癖好，「量子纠缠」式玄学词是 DeepSeek 系的），信号库会随之定期更新。Watch/Star 本仓库获取更新。
 
+## 反馈与作者
+
+这个 skill 我长期维护。如果你有修改方案、发现问题、或者改出了更好的版本，欢迎通过以下任一渠道找到我：
+
+- GitHub：本仓库提 issue 或 PR
+- 小红书：错误乱码
+- 微信公众号：能工智人错误乱码
+- B站：若逗道人
+
+## 相关 Skill 推荐
+
+<!-- 本表由维护脚本生成，勿手工编辑 -->
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：四线并行调研，产出交互式知识地图
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：把模糊的产品想法梳理成可开发、可验收的 SPEC.md
+- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：智慧圆桌：11 位思想家并行独立分析你的决策
+
+完整目录见 [GitHub 主页](https://github.com/ruodou233)。
+
 ## License
 
 MIT

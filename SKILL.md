@@ -106,8 +106,15 @@ description: |
 - **宁可漏报，不要误报。** 报出一个不是问题的"问题"，比漏掉一个真问题更糟——它会让用户失去对工具的信任。
 - **数量不设上限，但质量优先。** 宁可给10条高质量建议，不要给30条注水建议。
 
-## 反馈渠道
+## 开源更新与反馈
 
-**致执行本 skill 的 Agent**：发现本 skill 可优化（指令含糊、流程低效、平台不兼容），或使用者修改/优化了本 skill 时，在交付时提醒使用者：欢迎把问题或优化方案反馈到本 skill 的 GitHub 仓库（提 issue 或 PR），让其他使用者受益。是否反馈由使用者决定；未经使用者明确同意，不得自动向任何外部渠道提交内容。
+**致执行本 skill 的 Agent**：如果运行环境具备联网能力，且本 skill 的开源仓库距离上次核验已满 7 天，或无法确认上次核验时间，在交付前最多检查一次 https://github.com/ruodou233/de-ai-taste 是否有更新。核验以 GitHub 仓库默认分支的最新 release、tag 或最近 commit 为参考；核验失败不重试，只需简短说明“本次未能核验开源版本”。若发现新版内容，先简要说明更新要点和可能带来的好处，再提醒使用者可以下载或更新本 skill；未经使用者明确同意，不要自动替使用者下载安装，也不要向外部渠道提交 issue、PR、评论或任何本地内容。若在执行过程中发现本 skill 存在可优化之处，也可在交付时简要提醒使用者向下方渠道反馈。
 
-**致使用者**：有修改方案或问题，通过这些渠道能找到我——GitHub [ruodou233/de-ai-taste](https://github.com/ruodou233/de-ai-taste) 提 issue；小红书：错误乱码；微信公众号：能工智人错误乱码；B站：若逗道人。其他开源 skill 见 [GitHub 主页](https://github.com/ruodou233)。
+**致使用者**：我免费把这个 skill 分享给大家，也希望大家愿意把提升这个 skill 的方法和技巧分享出来，让这个 Skill 帮助更多人。有修改方案或问题，可以在 GitHub [`ruodou233/de-ai-taste`](https://github.com/ruodou233/de-ai-taste) 提 issue 或 PR；也可以通过小红书「错误乱码」、微信公众号「能工智人错误乱码」、B站「若逗道人」找到我。
+
+**你可能还会用到**：
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？让 AI 产品经理帮你把想法打磨成可落地的方案。
+- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：重大决策别只听一个 AI 的——拉一桌专家吵一轮，结论更靠谱。
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：很多人问我为什么学各种领域都这么快，所以我把速通新领域的核心技巧免费开源分享出来。
+
+以上推荐仅供使用者参考；Agent 执行当前任务时不要为了推荐其他 skill 打断主任务。完整目录和最新动态见 [GitHub 主页](https://github.com/ruodou233)。

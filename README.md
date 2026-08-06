@@ -73,7 +73,6 @@ AI 的写作癖好随模型迭代变化（破折号是 ChatGPT 系的癖好，�
 <!-- 本表由维护脚本生成，勿手工编辑 -->
 - [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域的核心技巧：四线并行采集，几分钟建立全景认知
 - [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：AI 产品经理帮你把模糊想法打磨成可落地的实现方案
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：拉一桌 AI 专家并行辩论，重大决策不再只听一面之词
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 

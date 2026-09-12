@@ -1,4 +1,6 @@
-# de-ai-taste 中文去AI味审阅 Skill
+# 中文去 AI 味｜Chinese Writing Humanizer
+
+Review AI-written Chinese and suggest edits to remove formulaic phrasing while preserving the author's voice.
 
 AI 写的中文一眼就能看出来：排比堆砌、过度总结、假大空转折。这个 skill 帮你审中文文章，逐条指出哪里读着机械、为什么影响表达、可以怎么改。公众号、产品介绍、工作文档、故事和随笔都能拿来过一遍；长文会自动分工审阅，目标是让文字更像你本人写的。
 
@@ -76,8 +78,8 @@ AI 的写作癖好随模型迭代变化（破折号是 ChatGPT 系的癖好，�
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白<br>Get up to speed on a new topic through its history, competing approaches, expert debates, and practical experience.
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案<br>Plan product requirements and MVP scope, then produce a development spec with milestones and acceptance criteria.
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 

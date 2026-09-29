@@ -90,12 +90,13 @@ AI 的写作癖好会随新模型变化，本 Skill 持续更新，最新版见�
 **模式**：文章或回复开头先寒暄、称赞提问，再用“接下来”“值得注意”等元叙述宣布即将开始表达。
 
 **关键词／句式清单**：
-您好, 感谢您的提问, 这是一个很好的问题, 一个自然的追问是, 值得注意的是, 需要指出的是, 接下来我们来探讨, I hope this email finds you well, Let’s take a look
+您好, 感谢您的提问, 这是一个很好的问题, 一个自然的追问是, 值得注意的是, 需要指出的是, 先纠正一个误区, 接下来我们来探讨, I hope this email finds you well, Let’s take a look
 
 **典型样例**：
 - “您好！感谢您提出这个问题”
 - “这是一个很好的问题”
 - “一个自然的追问是”
+- “先纠正一个误区：很多人以为……”
 - “I hope this email finds you well”
 - “接下来我们来探讨……”
 
@@ -112,11 +113,13 @@ AI 的写作癖好会随新模型变化，本 Skill 持续更新，最新版见�
 **模式**：结尾不收束观点，而是承诺可以继续展开、邀请读者回复，或故意留下“还有一个更重要的内容”。
 
 **关键词／句式清单**：
-如果你需要更多细节, 我可以进一步展开, 希望这对你有帮助, 如果你愿意我们可以进一步讨论, Would you like me to elaborate, If you’d like that guide just say the word, one more thing, thanks for listening
+如果你需要更多细节, 我可以进一步展开, 希望这对你有帮助, 如果你愿意我们可以进一步讨论, 科学家算了一笔账, 这次我们都错了, Would you like me to elaborate, If you’d like that guide just say the word, one more thing, thanks for listening
 
 **典型样例**：
 - “如果你需要更多细节，我可以进一步展开”
 - “希望这个想法对你有帮助”
+- “科学家算了一笔账，结果让人大吃一惊”
+- “这次我们都错了”
 - “Would you like me to elaborate”
 - “If you’d like that guide just say the word…”
 - “there’s one more thing that might completely change your workflow...”
@@ -579,11 +582,13 @@ AI 的写作癖好会随新模型变化，本 Skill 持续更新，最新版见�
 **模式**：用与具体语义关系薄弱的华丽意象、科技词或抽象概念抬高普通场景；比喻抛出后不再回到本体，或一段内连续堆叠多个比喻。
 
 **关键词／句式清单**：
-知识的海洋、思维的棱镜、认知的边界、量子纠缠、拓扑、熵增、赛博、光谱、时空、knowledge ocean, prism of thought, cognitive boundary, quantum entanglement, topology, entropy, cyber, spectrum
+知识的海洋、思维的棱镜、认知的边界、数据烟花、关掉水龙头、量子纠缠、拓扑、熵增、赛博、光谱、时空、knowledge ocean, prism of thought, cognitive boundary, quantum entanglement, topology, entropy, cyber, spectrum
 
 **典型样例**：
 - “知识的海洋”
 - “思维的棱镜”
+- “数据烟花在屏幕上绽放”
+- “关掉水龙头，让数据沉淀”
 - “量子玫瑰、量子纠缠、坍缩、星轨”
 - “奇奇怪怪的排比和比喻”
 - “That’s not style. That’s identity made legible.”
